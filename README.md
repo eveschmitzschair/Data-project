@@ -1,10 +1,10 @@
 # Data-project
 Our research question is: What are the prices for adults and children for an activity based on the city and type of activity? 
 ## Part 1: Webscraping 
-To answer our research question, we collected data on activities in Belgium at https://www.365.be/fr. 
-This site contains all possible activities in Belgium, whether cultural, natural, or recreational. 
-On this site, we collected the name of all the activities, the city of the activity, the price for an adult, the price for a child, and the type of activity (we have 22 different types of activity).
-After collecting all this information on the site, we built up a database with a total of 289 data items. 
+To answer our research question, we collected data on activities in the region of Wallonia and Brussels capital at https://www.365.be/fr. 
+This site contains all possible activities in region of Wallonia and Brussels capital, whether cultural, natural, or recreational. 
+On this site, we collected the name of all the activities, the city of the activity, the price for an adult, the price for a child, and the type of activity. There are a total of 22 different activities listed on the site.
+After collecting all this information on the site, we built up a database with a total of 277 data items. 
 Finally, we exported our database to an Excel file called "webscraping".
 
 ## Part 2: Visualization
